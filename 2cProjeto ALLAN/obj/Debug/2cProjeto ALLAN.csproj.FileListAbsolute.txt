@@ -1,1 +1,6 @@
 c:\users\aluno.naverecife\documents\2cProjeto ALLAN\2cProjeto ALLAN\bin\Debug\2cProjeto ALLAN.exe.config
+c:\users\aluno.naverecife\documents\2cProjeto ALLAN\2cProjeto ALLAN\bin\Debug\2cProjeto ALLAN.exe
+c:\users\aluno.naverecife\documents\2cProjeto ALLAN\2cProjeto ALLAN\bin\Debug\2cProjeto ALLAN.pdb
+c:\users\aluno.naverecife\documents\2cProjeto ALLAN\2cProjeto ALLAN\obj\Debug\2cProjeto ALLAN.csprojResolveAssemblyReference.cache
+c:\users\aluno.naverecife\documents\2cProjeto ALLAN\2cProjeto ALLAN\obj\Debug\2cProjeto ALLAN.exe
+c:\users\aluno.naverecife\documents\2cProjeto ALLAN\2cProjeto ALLAN\obj\Debug\2cProjeto ALLAN.pdb

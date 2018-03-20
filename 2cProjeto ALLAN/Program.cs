@@ -10,6 +10,9 @@ namespace _2cProjeto_ALLAN
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Amazing Gmae \n Press Start");
+
+            Console.ReadKey();
         }
     }
 }
